@@ -102,10 +102,10 @@ The platform is heavily driven by highly engaged "Super Fans."
   <img src="genre-financial-impact.png" width="700"/>
 </p>
 
-Revenue leakage is distributed fairly evenly across genres, totaling ~$14.6k - $15.7k per genre.
+Revenue leakage is distributed fairly evenly across genres, totaling ~14.6k - 15.7k per genre.
 
 **Insight:** 
-- **Horror** contributes the highest revenue loss ($15,701), while **Drama** shows the lowest ($14,683).
+- **Horror** contributes the highest revenue loss (15,701), while **Drama** shows the lowest (14,683).
 
 **Implication:** 
 - Improving content quality specifically within the Horror genre audience provides the largest opportunity for revenue recovery.
