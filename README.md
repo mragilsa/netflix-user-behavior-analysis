@@ -70,9 +70,7 @@ Registrations show clear growth momentum at the start of the year.
 
 ### Demographic vs. Loyalty (Heatmap)
 
-<p>
-  <img src="demographic-vs-loyalty.png" width="700"/>
-</p>
+[![Netflix Engagement & Retention Strategy](https://public.tableau.com/static/images/Ne/NetflixEngagementRetentionStrategySubscriptionLifecycleOptimization/Demographicvs_Loyalty/1.png)](https://tableau.com)
 
 Churn rates show minimal variance across ages, ranging from 0.18042 to 0.21359.
 
